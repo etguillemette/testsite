@@ -1,0 +1,19 @@
+.container{
+    background-color:aquamarine;
+    display:flex;
+    max-width: 500px;
+}
+
+.left-block{
+    background-color: blue;
+    justify-content:flex-start;
+    min-height:200px;
+    min-width: 200px;
+}
+
+.header{
+    min-height:50px;
+    max-height:100px;
+    background-color: blueviolet;
+    max-width: 500px;
+}
